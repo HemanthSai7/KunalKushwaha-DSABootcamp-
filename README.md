@@ -10,3 +10,5 @@ Answers of all leetcode questions in Kunal Kushwaha's java bootcamp
 |**To find out whether the given String is Palindrome or not.** | [Answer](Answers/answer3.txt) |
 |**Power In Java** | [Answer](Answers/answer4.txt) |
 |**Find Ncr & Npr** | [Answer](Answers/answer5.txt) |
+|**Reverse A String In Java** | [Answer](Answers/answer6.txt) |
+|**Future Investment Value** | [Answer](Answers/answer7.txt) |
