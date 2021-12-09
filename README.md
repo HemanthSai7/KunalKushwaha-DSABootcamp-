@@ -9,3 +9,4 @@ Answers of all leetcode questions in Kunal Kushwaha's java bootcamp
 |**To calculate Fibonacci Series up to n numbers.** | [Answer](Answers/answer2.txt) |
 |**To find out whether the given String is Palindrome or not.** | [Answer](Answers/answer3.txt) |
 |**Power In Java** | [Answer](Answers/answer4.txt) |
+|**Find Ncr & Npr** | [Answer](Answers/answer5.txt) |
