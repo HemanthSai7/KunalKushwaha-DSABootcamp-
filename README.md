@@ -11,12 +11,12 @@ Answers of all leetcode questions in Kunal Kushwaha's java bootcamp
 |**To find out whether the given String is Palindrome or not.** | [Answer](Answers/answer3.txt) |
 |**Power Program** | [Answer](Answers/answer4.txt) |
 |**Find Ncr & Npr** | [Answer](Answers/answer5.txt) |
-|**Reverse A String In Java** | [Answer](Answers/answer6.txt) |
+|**Reverse A String** | [Answer](Answers/answer6.txt) |
 |**Future Investment Value** | [Answer](Answers/answer7.txt) |
 |**HCF Of Two Numbers Program** | [Answer](Answers/answer8-15.txt) |
 |**LCM Of Two Numbers** | [Answer](Answers/answer8-15.txt) |
 |**Java Program Vowel Or Consonant** | [Answer](Answers/answer8-15.txt) |
-|**Perfect Number In Java** | [Answer](Answers/answer8-15.txt) |
+|**Perfect Number** | [Answer](Answers/answer8-15.txt) |
 |**Check Leap Year Or Not** | [Answer](Answers/answer8-15.txt) |
 |**Sum Of A Digits Of Number** | [Answer](Answers/answer8-15.txt) |
 |**Kunal is allowed to go out with his friends only on the even days of a given month. Write a program to count the number of days he can go out in the month of August.** | [Answer](Answers/answer8-15.txt) |
