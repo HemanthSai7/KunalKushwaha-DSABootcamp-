@@ -7,7 +7,7 @@ public class Main {
         perfectno(15);
         sumofdigit(12345);
         evensum(31);
-        sumnum(5);
+        sumarray(5);
     }
     static void hcf(int a,int b){
         int HCF = 1;
@@ -75,18 +75,14 @@ public class Main {
         }
         System.out.println(count);
     }
-    static void sumnum(int N){
+        static void sumarray(int N){
         Scanner in=new Scanner(System.in);
-        int n=in.nextInt();
-        int[] arr=new int[n];
+        int[] arr=new int[N];
         int sum=0;
         for (int i=0;i<N;i++){
             arr[i]=in.nextInt();
             sum+=arr[i];
         }
-//        for (int i=0;i<N;i++){
-//
-//        }
         System.out.println(sum);
     }
 }
