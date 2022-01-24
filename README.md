@@ -21,7 +21,8 @@ Answers of all leetcode questions in Kunal Kushwaha's java bootcamp
 |**Sum Of A Digits Of Number** | [Answer](Answers/answer8-15.txt) |
 |**Kunal is allowed to go out with his friends only on the even days of a given month. Write a program to count the number of days he can go out in the month of August.** | [Answer](Answers/answer8-15.txt) |
 |**Write a program to print the sum of negative numbers, sum of positive even numbers and the sum of positive odd numbers from a list of numbers (N) entered by the user. The list terminates when the user enters a zero.** | [Answer](Answers/answer8-15.txt) |
-|[04-functions.md Answers](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/blob/main/assignments/04-functions.md) | [Answer](https://github.com/HemanthSai7/leetcode-JavaBootcamp/blob/master/Answers/answers-functions.java) |
+|[04-functions.md Answers](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/blob/main/assignments/04-functions.md) | [Answer](Answers/answers-functions.java) |
+|[Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [Answer](Answers/buildArray_leetcode) |
 
 
 
