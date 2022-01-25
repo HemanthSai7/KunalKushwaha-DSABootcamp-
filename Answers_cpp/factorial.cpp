@@ -11,5 +11,5 @@ int main()
         f=f*i;
     }
     cout<<"Factorial= "<<f;
-    return f;
+    return 0;
 }
