@@ -6,7 +6,7 @@ Answers of all leetcode questions in Kunal Kushwaha's java bootcamp
 | ---------- | ---------- | --------- |
 | **QUESTIONS** | **ANSWERS IN JAVA** | **ANSWERS IN CPP** |
 | [**Subtract the Product and Sum of Digits of an Integer**](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Answer](Answers/answer0.java) | [Answer](Answers_cpp/sub_pro_sum.cpp) |
-| **Factorial Program** | [Answer](Answers/answer1.java) | 
+| **Factorial Program** | [Answer](Answers/answer1.java) | [Answer](Answers_cpp/factorial.cpp) |
 |**To calculate Fibonacci Series up to n numbers.** | [Answer](Answers/answer2.java) |
 |**To find out whether the given String is Palindrome or not.** | [Answer](Answers/answer3.java) |
 |**Power Program** | [Answer](Answers/answer4.java) |
