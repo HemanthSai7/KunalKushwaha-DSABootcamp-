@@ -25,7 +25,7 @@ Answers of all leetcode questions in Kunal Kushwaha's java bootcamp
 |[Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [Answer](Answers/buildArray_leetcode.java) |
 |[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [Answer](Answers/arrayCon_leetcode.java) |
 |[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Answer](Answers/sum_of_1D_array.java) |
-|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [Answer]()|
+|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [Answer](Answers/rich.java)|
 
 
 
