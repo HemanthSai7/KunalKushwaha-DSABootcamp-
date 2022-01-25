@@ -5,7 +5,7 @@ class Solution {
         while (n>0){
             int remainder=n%10;
             sum=sum+remainder;
-            porduct=product*remainder;
+            product=product*remainder;
             n=n/10;
         }
         return product-sum;
