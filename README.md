@@ -13,11 +13,11 @@ Answers of all leetcode questions in Kunal Kushwaha's java bootcamp
 |**Find Ncr & Npr** | [Answer](Answers/answer5.java) |
 |**Reverse A String** | [Answer](Answers/answer6.java) |
 |**Future Investment Value** | [Answer](Answers/answer7.java) |
-|**HCF Of Two Numbers Program** | [Answer](Answers/answer8-15.java) |
+|**HCF Of Two Numbers Program** | [Answer](Answers/answer8-15.java) | [Answer](Answers_cpp/hcf.cpp) |
 |**LCM Of Two Numbers** | [Answer](Answers/answer8-15.java) |
 |**Java Program Vowel Or Consonant** | [Answer](Answers/answer8-15.java) |
-|**Perfect Number** | [Answer](Answers/answer8-15.java) |
-|**Check Leap Year Or Not** | [Answer](Answers/answer8-15.java) |
+|**Perfect Number** | [Answer](Answers/answer8-15.java) | [Answer](Answers_cpp/perfect_number.cpp) |
+|**Check Leap Year Or Not** | [Answer](Answers/answer8-15.java) | [Answer](Answers_cpp/leap_year.cpp) |
 |**Sum Of A Digits Of Number** | [Answer](Answers/answer8-15.java) |
 |**Kunal is allowed to go out with his friends only on the even days of a given month. Write a program to count the number of days he can go out in the month of August.** | [Answer](Answers/answer8-15.java) |
 |**Write a program to print the sum of negative numbers, sum of positive even numbers and the sum of positive odd numbers from a list of numbers (N) entered by the user. The list terminates when the user enters a zero.** | [Answer](Answers/answer8-15.java) |
