@@ -26,6 +26,7 @@ Answers of all leetcode questions in Kunal Kushwaha's java bootcamp
 |[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [Answer](Answers/arrayCon_leetcode.java) |
 |[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Answer](Answers/sum_of_1D_array.java) |
 |[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [Answer](Answers/rich.java)|
+|[804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [Answer](Answers/morse_code.java) |
 
 
 
