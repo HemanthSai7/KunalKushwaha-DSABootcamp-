@@ -29,5 +29,6 @@ Answers of all leetcode questions in Kunal Kushwaha's java bootcamp
 |[804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [Answer](Answers/morse_code.java) |
 |[2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | [Answer](Answers/op.java) |
 |[2114. Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) |[Answer](Answers/MaxWords.java) |
+|[1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) | [Answer](Answers/decodeXOR.java) |
 
 
