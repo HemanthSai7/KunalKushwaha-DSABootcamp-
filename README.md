@@ -30,5 +30,7 @@ Answers of all leetcode questions in Kunal Kushwaha's java bootcamp
 |[2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | [Answer](Answers/op.java) |
 |[2114. Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) |[Answer](Answers/MaxWords.java) |
 |[1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) | [Answer](Answers/decodeXOR.java) |
+|[1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [Answer](Answers/TargetOrder.java) |
+|[1528. Shuffle String](https://leetcode.com/problems/shuffle-string/) | [Answer](Answers/ShuffleString.java)
 
 
