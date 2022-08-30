@@ -32,5 +32,5 @@ Answers of all leetcode questions in Kunal Kushwaha's java bootcamp
 |[1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) | [Answer](Answers/decodeXOR.java) |
 |[1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [Answer](Answers/TargetOrder.java) |
 |[1528. Shuffle String](https://leetcode.com/problems/shuffle-string/) | [Answer](Answers/ShuffleString.java)
-
+|[1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) |[Answer](Answers/rule.java) |
 
