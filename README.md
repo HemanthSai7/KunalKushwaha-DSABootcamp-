@@ -34,3 +34,4 @@ Answers of all leetcode questions in Kunal Kushwaha's java bootcamp
 |[1528. Shuffle String](https://leetcode.com/problems/shuffle-string/) | [Answer](Answers/ShuffleString.java)
 |[1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) |[Answer](Answers/rule.java) |
 |[2367. Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/) |[Answer](Answers/triplets.java) |
+|[1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) |[Answer](Answers/smallnum.java) |
