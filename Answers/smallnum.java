@@ -15,3 +15,20 @@ class Solution {
         return arr;
         }
     }
+
+//approach 2 hashmap
+class Solution {
+    public int[] smallerNumbersThanCurrent(int[] nums) {
+        int len=nums.length;
+        int[] arr=Arrays.copyOf(nums,len);
+        Arrays.sort(nums);
+        HashMap<Integer,Integer> res= new HashMap<>();
+        for (int i=len-1;i>=0;i--){
+            res.put(nums[i],i);
+        }
+        for (int i=0;i<len;++i){
+            arr[i]=res.get(arr[i]);
+        }
+        return arr;
+        }
+    }
