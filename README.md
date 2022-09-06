@@ -37,3 +37,4 @@ Answers of all leetcode questions in Kunal Kushwaha's java bootcamp
 |[1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) |[Answer](Answers/smallnum.java) |
 |[1313. Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) |[Answer](Answers/decompress.java) |
 |[1816. Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) |[Answer](Answers/truncate.java) |
+|[2176. Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) |[Answer](Answers/pairs.java) |
