@@ -40,3 +40,4 @@ Answers of all leetcode questions in Kunal Kushwaha's java bootcamp
 |[2176. Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) |[Answer](Answers/pairs.java) |
 |[1534. Count Good Triplets](https://leetcode.com/problems/count-good-triplets/) |[Answer](Answers/goodtriplets.java)|
 |[1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) |[Answer](Answers/max_prod.java) |
+|[1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) |[Answer](Answers/highalt.java) |
